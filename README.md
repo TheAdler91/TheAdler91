@@ -2,7 +2,10 @@
 
 ## Web Developer Full-Stack | Student at Trybe 2022 - 2023
 
-I'm studying at trybe, a school that aims to improve students lives and build a successful career in technology, where you only pay when you get a job. The program counts with more than 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, Agile methodologies and soft skills.
+I'm studying at trybe, a school that aims to improve students lives and build a successful career in technology,<br> 
+where you only pay when you get a job. The program counts with more than 1,500 hours of classroom and online
+classes,<br> covers introduction to software development, front-end, back-end, computer science, software engineering,<br>
+Agile methodologies and soft skills.
 
 -   🌍  I'm based in Brazil
 -   ✉️  You can contact me at [philip.adler@outlook.ie](mailto:philip.adler@outlook.ie)
