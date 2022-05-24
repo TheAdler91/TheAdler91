@@ -1,4 +1,4 @@
-### Hi there I am Philip Adler 👋
+# Hi there I am Philip Adler 👋
 
 ## Web Developer Full-Stack | Student at Trybe 2022 - 2023
 
