@@ -3,9 +3,9 @@
 ## Web Developer Full-Stack | Student at Trybe 2022 - 2023
 
 -   🌍  I'm based in Brazil
--   ✉️  You can contact me at [philip.adler@outlook.ie](mailto:philip.adler@outlook.ie)
+-   ✉️  You can email me at [philip.adler@outlook.ie](mailto:philip.adler@outlook.ie)
 -   🚀  I'm Backend Developer currently learning Web development (Full-Stack) [Trybe](http://www.betrybe.com/)
--   ⚡ Fun fact **I make dad jokes all the time.**
+-   ⚡ Fun fact: **I make dad jokes all the time.**
 
 ## My Skill Set
 
