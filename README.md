@@ -3,8 +3,9 @@
 ## Web Developer Full-Stack | Student at Trybe 2022 - 2023
 
 -   🌍  I'm based in Brazil
--   ✉️  You can email me at [philip.adler@outlook.ie](mailto:philip.adler@outlook.ie)
+
 -   🚀  I'm Backend Developer currently learning Web development (Full-Stack) [Trybe](http://www.betrybe.com/)
+
 -   ⚡ Fun fact: **I make dad jokes all the time.**
 
 ## My Skill Set
@@ -54,4 +55,6 @@
 
 ### Socials
 
-<a href="https://www.github.com/TheAdler91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/phiadler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/philippereira/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/TheAdler91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/phiadler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/philippereira/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<a href = "mailto:philip.adler@outlook.ie"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a></a></p>
+  
